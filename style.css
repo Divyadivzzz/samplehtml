@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    margin-left: 30%;margin-right: 30%;
+}
+table{
+    background-color:green;
+    width: 100%;
+}
+img{
+    float: left;
+    width:20%;
+    padding: 10px;
+}
